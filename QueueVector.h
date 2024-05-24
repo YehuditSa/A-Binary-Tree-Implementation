@@ -1,6 +1,3 @@
-//Yehudit Safrai 326050895
-//Sadna b-C++
-//Week9 Exe1
 //Declaring a binary tree class and a BST class
 
 /*In this file, I only changed the class to be a template class*/
